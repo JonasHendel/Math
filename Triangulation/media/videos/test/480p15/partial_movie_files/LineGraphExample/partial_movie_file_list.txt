@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/test/480p15/partial_movie_files/LineGraphExample/3163782288_233482633_3952156321.mp4'
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/test/480p15/partial_movie_files/LineGraphExample/1495979052_3859539691_2260174794.mp4'

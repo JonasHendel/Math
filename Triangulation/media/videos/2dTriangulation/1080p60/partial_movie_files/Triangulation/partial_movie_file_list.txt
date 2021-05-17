@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/2dTriangulation/1080p60/partial_movie_files/Triangulation/450974505_3316461467_1072970558.mp4'
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/2dTriangulation/1080p60/partial_movie_files/Triangulation/2788726626_862516335_1831567758.mp4'
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/2dTriangulation/1080p60/partial_movie_files/Triangulation/2788726626_3349490742_170822404.mp4'
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/2dTriangulation/1080p60/partial_movie_files/Triangulation/2788726626_3838353691_2548851812.mp4'
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/2dTriangulation/1080p60/partial_movie_files/Triangulation/2788726626_498527860_1618936692.mp4'
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/2dTriangulation/1080p60/partial_movie_files/Triangulation/2788726626_3838353691_4188574446.mp4'
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/2dTriangulation/1080p60/partial_movie_files/Triangulation/2788726626_3905261142_2260149207.mp4'
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/2dTriangulation/1080p60/partial_movie_files/Triangulation/2788726626_171535338_3368320087.mp4'
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/2dTriangulation/1080p60/partial_movie_files/Triangulation/2788726626_2106146911_434139423.mp4'
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/2dTriangulation/1080p60/partial_movie_files/Triangulation/2788726626_1324128456_434139423.mp4'
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/2dTriangulation/1080p60/partial_movie_files/Triangulation/2788726626_1224718071_2878801356.mp4'
+file 'file:/Users/jonashendel/dev/python/l/math/lineare Algebra/media/videos/2dTriangulation/1080p60/partial_movie_files/Triangulation/2788726626_2448584004_1853559692.mp4'
